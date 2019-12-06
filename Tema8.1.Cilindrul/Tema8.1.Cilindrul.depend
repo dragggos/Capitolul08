@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575541199 source:d:\curs c++\proiectegithub\capitolul08\tema8.1.cilindrul\main.cpp
+	<iostream>
+	"Cilindru.h"
+	"Cerc.h"
+
+1575625685 source:d:\curs c++\proiectegithub\capitolul08\tema8.1.cilindrul\src\cerc.cpp
+	"Cerc.h"
+	<math.h>
+
+1575625561 d:\curs c++\proiectegithub\capitolul08\tema8.1.cilindrul\include\cerc.h
+
+1575540419 source:d:\curs c++\proiectegithub\capitolul08\tema8.1.cilindrul\src\cilindru.cpp
+	"Cilindru.h"
+	"Cerc.h"
+
+1575544075 d:\curs c++\proiectegithub\capitolul08\tema8.1.cilindrul\include\cilindru.h
+	"Cerc.h"
+
