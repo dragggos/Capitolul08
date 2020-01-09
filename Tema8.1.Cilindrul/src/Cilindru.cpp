@@ -6,10 +6,11 @@ Cilindru::Cilindru()
 {
     //ctor
 }
-Cilindru::Cilindru(double n, double m)
+Cilindru::Cilindru(double n, double m):_baza(n),_inaltime(m)
 {
-    _baza.Set_raza(n);
-    _inaltime=m;
+    //_baza.Set_raza(n);
+
+    //_inaltime=m;
 }
 
 double Cilindru::Volum()

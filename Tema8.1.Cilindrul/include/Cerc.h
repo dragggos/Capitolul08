@@ -10,7 +10,7 @@ class Cerc
         Cerc(double);
         double Arie();
         double Get_raza();
-        void Set_raza(double x);
+        //void Set_raza(double x);
 
     protected:
 
