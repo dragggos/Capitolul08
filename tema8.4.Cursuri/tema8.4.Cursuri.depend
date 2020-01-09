@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1578587086 source:d:\curs c++\proiectegithub\capitolul08\tema8.4.cursuri\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Mentor.h"
+
+1578578953 source:d:\curs c++\proiectegithub\capitolul08\tema8.4.cursuri\src\persoana.cpp
+	"Persoana.h"
+
+1578603731 d:\curs c++\proiectegithub\capitolul08\tema8.4.cursuri\include\persoana.h
+	<iostream>
+
+1578585249 source:d:\curs c++\proiectegithub\capitolul08\tema8.4.cursuri\src\mentor.cpp
+	"Mentor.h"
+
+1578581696 d:\curs c++\proiectegithub\capitolul08\tema8.4.cursuri\include\mentor.h
+	<Persoana.h>
+
+1578584698 source:d:\curs c++\proiectegithub\capitolul08\tema8.4.cursuri\src\cursant.cpp
+	"Cursant.h"
+
+1578584698 d:\curs c++\proiectegithub\capitolul08\tema8.4.cursuri\include\cursant.h
+	<Persoana.h>
+
